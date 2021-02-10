@@ -1,0 +1,15 @@
+E:\C#\DiscordEmbed\DiscordEmbed\bin\Release\netcoreapp3.1\DiscordEmbed.exe
+E:\C#\DiscordEmbed\DiscordEmbed\bin\Release\netcoreapp3.1\DiscordEmbed.deps.json
+E:\C#\DiscordEmbed\DiscordEmbed\bin\Release\netcoreapp3.1\DiscordEmbed.runtimeconfig.json
+E:\C#\DiscordEmbed\DiscordEmbed\bin\Release\netcoreapp3.1\DiscordEmbed.runtimeconfig.dev.json
+E:\C#\DiscordEmbed\DiscordEmbed\bin\Release\netcoreapp3.1\DiscordEmbed.dll
+E:\C#\DiscordEmbed\DiscordEmbed\bin\Release\netcoreapp3.1\DiscordEmbed.pdb
+E:\C#\DiscordEmbed\DiscordEmbed\bin\Release\netcoreapp3.1\RestSharp.dll
+E:\C#\DiscordEmbed\DiscordEmbed\obj\Release\netcoreapp3.1\DiscordEmbed.csprojAssemblyReference.cache
+E:\C#\DiscordEmbed\DiscordEmbed\obj\Release\netcoreapp3.1\DiscordEmbed.AssemblyInfoInputs.cache
+E:\C#\DiscordEmbed\DiscordEmbed\obj\Release\netcoreapp3.1\DiscordEmbed.AssemblyInfo.cs
+E:\C#\DiscordEmbed\DiscordEmbed\obj\Release\netcoreapp3.1\DiscordEmbed.csproj.CoreCompileInputs.cache
+E:\C#\DiscordEmbed\DiscordEmbed\obj\Release\netcoreapp3.1\DiscordEmbed.csproj.CopyComplete
+E:\C#\DiscordEmbed\DiscordEmbed\obj\Release\netcoreapp3.1\DiscordEmbed.dll
+E:\C#\DiscordEmbed\DiscordEmbed\obj\Release\netcoreapp3.1\DiscordEmbed.pdb
+E:\C#\DiscordEmbed\DiscordEmbed\obj\Release\netcoreapp3.1\DiscordEmbed.genruntimeconfig.cache

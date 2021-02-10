@@ -1,0 +1,4 @@
+E:\C#\DiscordEmbed\DiscordEmbed\bin\Debug\netcoreapp3.1\DiscordEmbed.exe
+E:\C#\DiscordEmbed\DiscordEmbed\obj\Debug\netcoreapp3.1\DiscordEmbed.csprojAssemblyReference.cache
+E:\C#\DiscordEmbed\DiscordEmbed\obj\Debug\netcoreapp3.1\DiscordEmbed.AssemblyInfoInputs.cache
+E:\C#\DiscordEmbed\DiscordEmbed\obj\Debug\netcoreapp3.1\DiscordEmbed.AssemblyInfo.cs

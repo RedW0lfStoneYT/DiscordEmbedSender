@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KfgDDoLMwt6TEPHv8Rwb0VV3qvbNHlpE1mD0IbL5oeE69u4UD6G0KUw36WPUqK2BZh9ynhW3Rqn95R57RTXyfQ==",
+  "success": true,
+  "projectFilePath": "E:\\C#\\DiscordEmbed\\DiscordEmbed\\DiscordEmbed.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\andre\\.nuget\\packages\\restsharp\\106.11.7\\restsharp.106.11.7.nupkg.sha512"
+  ],
+  "logs": []
+}
