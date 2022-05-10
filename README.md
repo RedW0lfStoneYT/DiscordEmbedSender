@@ -10,5 +10,5 @@ Send an embedded message to discord using your token
 5, in the filter bar type "token" you should see one key and value come up the value is your token
 
 # How to use the file?
-open "token.txt" and paste your newly found token in the file (not changing your username, password, 2fa, ect settings will
+open "token.txt" and paste your newly found token in the file (note: changing your username, password, 2fa, ect settings will
 reset your discord token)
